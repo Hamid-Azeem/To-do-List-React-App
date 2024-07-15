@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.background-img{
+    background: url("./Assets/Background-pen.jpg") no-repeat center;
+    background-size: cover;
+}
